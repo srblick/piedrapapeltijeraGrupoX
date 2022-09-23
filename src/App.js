@@ -12,7 +12,6 @@ function App() {
       <h2> Al Cuadrado: {numero => numero*numero}</h2>
       <h2> Al Cubo: {numero => numero*numero*numero}</h2>      
       <h2> Al 4ta: {numero => numero*numero*numero*numero}</h2>      
-      <h2> Al 4ta: {numero => numero*numero*numero*numero}</h2>      
     </div>
   );
 }
