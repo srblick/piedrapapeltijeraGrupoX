@@ -9,8 +9,8 @@ function App() {
   return (
     <div className="App">
       <h1> Numero al azar: {numero}</h1>
-      <h2> al Cuadrado: {numero => numero*numero}</h2>
-      
+      <h2> Al Cuadrado: {numero => numero*numero}</h2>
+      <h2> Al Cubo: {numero => numero*numero*numero}</h2>      
     </div>
   );
 }
