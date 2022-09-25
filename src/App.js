@@ -10,6 +10,7 @@ function App() {
     <div className="App">
       <h1> Numero al azar: {numero}</h1>
       <h2> al Cuadrado: {numero => numero*numero}</h2>
+      <h2> al Cubo: {numero => numero*numero*numero}</h2>
       
     </div>
   );
